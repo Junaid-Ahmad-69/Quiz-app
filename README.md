@@ -1,3 +1,5 @@
+![image](https://github.com/Junaid-Ahmad-69/10-udemy-quiz-app/assets/85307602/f810de56-2122-4fa8-a86d-3da42a4a1614)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
